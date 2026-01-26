@@ -23,11 +23,10 @@ Currently learning and practicing modern technologies to improve my skills.
 
 ## 📊 GitHub Stats  
 
-!Aidai's GitHub stats (https://github-readme-stats.vercel.app/api?username=Mikrua&show_icons=true&theme=radical)  
-
+!Aidai's GitHub stats 
 ### 🔥 Most Used Languages  
 
-!Top Langs (https://github-readme-stats.vercel.app/api/top-langs/?username=Mikrua&layout=compact&theme=radical)
+!Top Langs
 
 ---
 
