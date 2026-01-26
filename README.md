@@ -22,12 +22,12 @@ Currently learning and practicing modern technologies to improve my skills.
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=djolchubekovaaidai1-arch&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djolchubekovaaidai1-arch&layout=compact&theme=tokyonight)
 !Top Langs
 
 ---
