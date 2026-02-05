@@ -35,7 +35,7 @@ Currently learning and practicing modern technologies to improve my skills.
 ## 🎯 About Me
 - 🌱 Currently learning frontend and building first projects  
 - 💡 Interested in design and UI/UX  
-- ⚡ Always curious to try new things and grow in IT  
+- ⚡ Always curious to try new things and grow in IT 
 
 ---
 
