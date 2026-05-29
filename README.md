@@ -52,6 +52,11 @@ Currently learning and practicing modern technologies to improve my skills.
 - ⚡ Always curious to try new things and grow in IT  
 
 ---
+### 📫 Контакты
+- 📄 [Резюме](https://djolchubekovaaidai1-arch.github.io/resuma/)
+<!-- - 💼 [LinkedIn](https://www.linkedin.com/in/kutman/) -->
+- 📧 [aidai@gmail.com](dzolcubekovaajdaj1@gmail.com)
+
 
 
 
