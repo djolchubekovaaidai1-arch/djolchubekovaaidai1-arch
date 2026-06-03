@@ -56,6 +56,7 @@ Currently learning and practicing modern technologies to improve my skills.
 - 📄 [Резюме](https://djolchubekovaaidai1-arch.github.io/resuma/)
 <!-- - 💼 [LinkedIn](https://www.linkedin.com/in/kutman/) -->
 - 📧 [aidai@gmail.com](dzolcubekovaajdaj1@gmail.com)
+- 📄 [Портфолио]([https://djolchubekovaaidai1-arch.github.io/resuma/](https://portfolio-tan-alpha-wuv8ub2hvl.vercel.app))
 
 
 
