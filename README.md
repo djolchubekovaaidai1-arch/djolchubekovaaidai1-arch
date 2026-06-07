@@ -54,7 +54,7 @@ Currently learning and practicing modern technologies to improve my skills.
 ## 📫 Contacts
 - 📄 [Resume](https://djolchubekovaaidai1-arch.github.io/resuma/)
 - 📧 [Email](mailto:dzolcubekovaajdaj1@gmail.com)
-- 📄 [Portfolio](https://portfolio-tan-alpha-wuv8ub2hvl.vercel.app)
+- 📄 [Portfolio](https://portfolio-1-six-xi-75.vercel.app)
 
 ---
 
